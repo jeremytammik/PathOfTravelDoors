@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Path of Travel Doors</Text>
+    <Description>Determine the doors traversed by Path of Travel</Description>
+    <Assembly>PathOfTravelDoors.dll</Assembly>
+    <FullClassName>PathOfTravelDoors.Command</FullClassName>
+    <ClientId>b6c83876-0ea1-4522-bb69-68197a230bf6</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
