@@ -90,6 +90,8 @@ Mit dem Modell von CA_18 haben wir die Bewegungsroute ausprobiert.
 Es funktioniert wunderbar und auch der Weg als Route ist abspeicherbar, was für die Parametrisierung des Zutrittssystems perfekt ist.
 Was noch fehlt: in der Tabellenausgabe der Route die einzelnen Türnummern auflisten; aktuell wird nur die erste und die letzte Tür angezeigt.
 
+<img src="img/task.png" alt="Türnummern im Bewegungspfad" title="Türnummern im Bewegungspfad" width="600"/> <!-- 1200 x 520 pixels -->
+
 ## Discussion with the Revit Development Team
 
 [Q] question on doors traversed by a path of travel: a customer wishes to add a list of all the doors that need to be crossed to follow a path of travel. what would be the easiest way to determine this list, please?
